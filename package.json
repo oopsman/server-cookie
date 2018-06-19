@@ -1,0 +1,24 @@
+{
+  "name": "server-setCookie",
+  "version": "1.0.0",
+  "description": "## conclusion > 在 web 项目中设置  cookie 的时候 domain (域名) 属性为可选项，可设置也可以不设置。那么设置和不设置到底有什么区别呢？",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oopsman/server-setCookie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oopsman/server-setCookie/issues"
+  },
+  "homepage": "https://github.com/oopsman/server-setCookie#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3"
+  }
+}
